@@ -54,8 +54,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chriscrat&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscrat&layout=compact&theme=radical" alt="langs" height="180"/>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&fontFamily=&preferLogin=false">
+        <img  alt="chriscrat's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/chriscrat?cardType=github&theme=midnight-purple&fontFamily=&preferLogin=false" />
+    </a>
 </p>
 
 ---
@@ -63,7 +64,7 @@
 ### 🐍 Contributions Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chriscrat/Chriscrat/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Chriscrat/Chriscrat/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -71,7 +72,7 @@
 ### 🌍 Find me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/cba-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dev-cba@pm.me"><img src="https://img.shields.io/badge/Protonmail-945DC8?style=for-the-badge&logo=proton&logoColor=white"/></a>
 </p>
 
