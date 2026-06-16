@@ -73,6 +73,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/cba-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio.dev-cba.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+
   <a href="mailto:dev-cba@pm.me"><img src="https://img.shields.io/badge/Protonmail-945DC8?style=for-the-badge&logo=proton&logoColor=white"/></a>
 </p>
 
