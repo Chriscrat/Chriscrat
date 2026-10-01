@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About me
 
-- 🔭 Currently working on **React/Next.js** and **NestJS** projects  
-- 🌱 Exploring **AWS cloud** and distributed architecture  
+- 🔭 Currently working on **React/Next.js**, **NestJS** and **Vue.js** projects  
+- 🌱 Exploring **IA** tools like Claude Code, Codex
 - 💡 Passionate about **modern UI/UX** and **clean code**  
 
 ---
